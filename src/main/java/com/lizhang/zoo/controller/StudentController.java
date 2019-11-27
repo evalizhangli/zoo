@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @RestController
-@RequestMapping("/students")
+@RequestMapping("/getStudentScoreInfo")
 public class StudentController {
 
     @GetMapping
